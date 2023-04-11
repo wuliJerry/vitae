@@ -11,6 +11,6 @@ published: true
 
 In addition to his work with Dr. Zeng, Ruijie is excited to further expand his horizons as a summer research intern under the supervision of [Prof. Jeff Zhang](https://search.asu.edu/profile/4346755) at Arizona State University. Passionate about open-source software, Ruijie is an avid user of Arch Linux and an enthusiast of the Rust programming language, which he aspires to master professionally.
 
-His affinity for innovative technology extends to hardware design, where he enjoys using Chisel as his preferred design tool, expressing a strong dislike for Verilog. Ruijie's interests are not limited to engineering; he is also an ardent lover of musicals, with Hamilton and Rent ranking among his favorites.
+His affinity for innovative technology extends to hardware design, where he enjoys using Chisel as his preferred design tool, expressing a strong dislike for [Verilog](http://danluu.com/why-hardware-development-is-hard/). Ruijie's interests are not limited to engineering; he is also an ardent lover of musicals, with Hamilton and Rent ranking among his favorites.
 
 As Ruijie Gao continues his academic journey, he remains committed to his dream of becoming a professional in the field of computer architecture. With the support of his mentors and driven by his love for the community, Ruijie is eager to make meaningful contributions to the world of technology and beyond.
