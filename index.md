@@ -7,15 +7,10 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+[Ruijie Gao](.) is an undergraduate Electrical Engineering (EE) student, anticipated to graduate in the summer of 2025. With a keen interest in computer architecture, hardware/software co-design, and deep learning accelerators, Ruijie has been immersing himself in groundbreaking research and academic pursuits. Under the guidance of [Dr. Yu Zeng](https://yuzeng2333.github.io) from Princeton University, Ruijie has gained valuable knowledge and experience in his chosen field.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+In addition to his work with Dr. Zeng, Ruijie is excited to further expand his horizons as a summer research intern under the supervision of [Prof. Jeff Zhang](https://search.asu.edu/profile/4346755) at Arizona State University. Passionate about open-source software, Ruijie is an avid user of Arch Linux and an enthusiast of the Rust programming language, which he aspires to master professionally.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+His affinity for innovative technology extends to hardware design, where he enjoys using Chisel as his preferred design tool, expressing a strong dislike for Verilog. Ruijie's interests are not limited to engineering; he is also an ardent lover of musicals, with Hamilton and Rent ranking among his favorites.
 
-PS: If you liked the theme, do star it on GitHub!
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+As Ruijie Gao continues his academic journey, he remains committed to his dream of becoming a professional in the field of computer architecture. With the support of his mentors and driven by his love for the community, Ruijie is eager to make meaningful contributions to the world of technology and beyond.

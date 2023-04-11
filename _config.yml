@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Jerry Ruijie Gao
+description: sophomore | EE | computer architecture
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: wuliJerry927@outlook.com#
 
 # Pagination
 paginate: 4
@@ -16,7 +16,7 @@ paginate_path: /blog/page:num/
 twitter: "#"
 linkedin: "#"
 stackoverflow: "#"
-github: "#"
+github: "#wuliJerry"
 researchgate: "#"
 orcid: "#"
 quora: "#"
