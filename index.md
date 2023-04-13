@@ -21,15 +21,15 @@ As Ruijie Gao continues his academic journey, he remains committed to his dream 
 
 ## Experience
 **Research Intern** _remote_   
-<span style="font-weight: 300">Collaborated with and guided by Dr. Yu Zeng, Princeton University    
+<span style="font-weight: 100">Collaborated with and guided by Dr. Yu Zeng, Princeton University    
 Focused on accelerating hardware simulation by optimizing RTL synthesis        
 Preparing to publish on ICCAD </span>
 
 **Hardware Engineer** _"One Core for Life" Project_          
-<span style="font-weight: 300">Implemented a 5-stage RISC-V 64IM CPU Core using Chisel and its simulation framework based on Verilator    </span>
+<span style="font-weight: 100">Implemented a 5-stage RISC-V 64IM CPU Core using Chisel and its simulation framework based on Verilator    </span>
 
 **Teaching Assistant**                
-<span style="font-weight: 300">2022 Fall, [Introductory Programming](https://www.gla.ac.uk/coursecatalogue/course/?code=UESTC1005)   </span>
+<span style="font-weight: 100">2022 Fall, [Introductory Programming](https://www.gla.ac.uk/coursecatalogue/course/?code=UESTC1005)   </span>
 
 
 ## Education
