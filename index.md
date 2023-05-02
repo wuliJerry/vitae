@@ -7,11 +7,10 @@ profile:
 published: true
 ---
 
-[Ruijie Gao](.) is an undergraduate Electrical Engineering (EE) student, anticipated to graduate in the summer of 2025. With a keen interest in **computer architecture**, **hardware/software co-design**, and **machine learning accelerators**, Ruijie has been immersing himself in groundbreaking research and academic pursuits. Under the guidance of [Dr. Yu Zeng](https://yuzeng2333.github.io) from Princeton University, Ruijie has gained valuable knowledge and experience in his chosen field.
 
-A devoted CLI enthusiast, Ruijie uses Arch Linux as his desktop operating system, embracing the power and flexibility it offers. His affinity for innovative technology extends to hardware design, where he enjoys using Chisel as his preferred design tool, expressing a strong dislike for [Verilog](http://danluu.com/why-hardware-development-is-hard/). Ruijie's interests are not limited to engineering; he is also an ardent lover of musicals, with Hamilton and Rent ranking among his favorites.
+Ruijie Gao is an undergraduate Electrical Engineering student set to graduate in 2025. He is passionate about computer architecture, hardware/software co-design, and machine learning accelerators. Ruijie has gained experience under the mentorship of Dr. [Yu Zeng](https://yuzeng2333.github.io) from Princeton University.
 
-As Ruijie Gao continues his academic journey, he remains committed to his dream of becoming a professional in the field of computer architecture. With the support of his mentors and driven by his love for the community, Ruijie is eager to make meaningful contributions to the world of technology and beyond.
+Ruijie prefers using Arch Linux for its power and flexibility, and enjoys hardware design with Chisel as his favored tool. In addition to engineering, he also enjoys musicals like Hamilton and Rent. Ruijie is committed to becoming a professional in computer architecture and aims to contribute significantly to the field of technology.
 
 ## Publication(s)
 - <u><b>Automatic generation of cycle-accurate timing models for RTL designs.</b></u>   
@@ -37,6 +36,7 @@ Preparing to publish on ICCAD </span>
 [Joint Program](https://www.gla.ac.uk/undergraduate/degrees/electronicselectricaluestc/) from University of Glasgow and UESTC     
 
 
+## Certification
 **Machine Learning with Python (2022, summer)**           
 [Bootcamp](https://www.freecodecamp.org/learn/machine-learning-with-python/) from freeCodeCamp
 
