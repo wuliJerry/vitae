@@ -8,7 +8,7 @@ published: true
 ---
 
 
-Ruijie Gao is an undergraduate Electrical Engineering student set to graduate in 2025. He is passionate about computer architecture, hardware/software co-design, and machine learning accelerators. Ruijie has gained experience under the mentorship of Dr. [Yu Zeng](https://yuzeng2333.github.io) from Princeton University.
+Ruijie Gao is an undergraduate Electrical Engineering student set to graduate in 2025. He is passionate about **computer architecture**, **hardware/software co-design**, and **AI accelerators**. Ruijie has gained experience under the mentorship of Dr. [Yu Zeng](https://yuzeng2333.github.io) from Princeton University.
 
 Ruijie prefers using Arch Linux for its power and flexibility, and enjoys hardware design with Chisel as his favored tool. In addition to engineering, he also enjoys musicals like Hamilton and Rent. Ruijie is committed to becoming a professional in computer architecture and aims to contribute significantly to the field of technology.
 
