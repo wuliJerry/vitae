@@ -8,9 +8,9 @@ published: true
 ---
 
 
-Ruijie Gao is an undergraduate Electrical Engineering student set to graduate in 2025. He is passionate about **computer architecture**, **hardware/software co-design**, and **AI accelerators**. Ruijie has gained experience under the mentorship of Dr. [Yu Zeng](https://yuzeng2333.github.io) from Princeton University.
+Ruijie Gao is an undergraduate Electrical Engineering student set to graduate in 2025. He is passionate about **computer architecture**, **hardware/software co-design**, and **ML Sys**. Ruijie has gained experience under the mentorship of Dr. [Yu Zeng](https://yuzeng2333.github.io) from Princeton University.
 
-Ruijie prefers using Arch Linux for its power and flexibility, and enjoys hardware design with Chisel as his favored tool. In addition to engineering, he also enjoys musicals like Hamilton and Rent. Ruijie is committed to becoming a professional in computer architecture and aims to contribute significantly to the field of technology.
+Ruijie prefers using [Arch Linux](https://archlinux.org/) for its power and flexibility, and enjoys hardware design with [Chisel](https://www.chisel-lang.org/) as his favored tool. In addition to engineering, he also enjoys musicals like _Hamilton_ and _Rent_. Ruijie is committed to becoming a professional in computer architecture and aims to contribute significantly to the field of technology.
 
 ## Publication(s)
 - <u><b>Automatic Generation of Timing Models from RTL for Faster Timing Simulation.</b></u>   
@@ -25,7 +25,7 @@ Focused on accelerating hardware simulation by optimizing RTL synthesis
 Preparing to publish on ICCAD </span>
 
 **Hardware Engineer** _"One Core for Life" Project_          
-<span style="font-weight: 100">Implemented a 5-stage RISC-V 64IM CPU Core using Chisel and its simulation framework based on Verilator    </span>
+<span style="font-weight: 100">Implemented a RISC-V 64IM CPU Core with 5-stage pipeline, using Chisel and its simulation framework based on Verilator    </span>
 
 **Teaching Assistant**                
 <span style="font-weight: 100">2022 Fall, [Introductory Programming](https://www.gla.ac.uk/coursecatalogue/course/?code=UESTC1005)   </span>
