@@ -13,9 +13,9 @@ Ruijie Gao is an undergraduate Electrical Engineering student set to graduate in
 Ruijie prefers using [Arch Linux](https://archlinux.org/) for its power and flexibility, and enjoys hardware design with [Chisel](https://www.chisel-lang.org/) as his favored tool. In addition to engineering, he also enjoys musicals like _Hamilton_ and _Rent_. Ruijie is committed to becoming a professional in computer architecture and aims to contribute significantly to the field of technology.
 
 ## Publication(s)
-- <u><b>Automatic Generation of Timing Models from RTL for Faster Timing Simulation.</b></u>   
+- <u><b>Automatic Generation of Timing Models from RTL for Hardware Accelerators</b></u>   
   Yu Zeng, **Ruijie Gao**, Aarti Gupta, Sharad Malik       
-  Under review for ICCAD
+  Under submission for ICCAD
 
 
 ## Experience
