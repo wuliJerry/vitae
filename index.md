@@ -14,10 +14,9 @@ Ruijie prefers using [Arch Linux](https://archlinux.org/) for its power and flex
 
 
 ## Experience
-**Research Intern** remote     
+**Research Collaboration** remote     
 <span style="font-weight: 100; color: rgba(51, 51, 51, 0.8)">Collaborated with and guided by Dr. Yu Zeng
 Focused on accelerating hardware simulation by optimizing RTL synthesis        
-Preparing to publish on ICCAD </span>
 
 **Hardware Engineer** "One Core for Life" Project     
 <span style="font-weight: 100; color: rgba(51, 51, 51, 0.8)">Implemented a RISC-V 64IM CPU Core with 5-stage pipeline, using Chisel and its simulation framework based on Verilator    </span>
