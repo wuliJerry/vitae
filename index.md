@@ -19,20 +19,20 @@ Ruijie prefers using [Arch Linux](https://archlinux.org/) for its power and flex
 
 
 ## Experience
-**Research Intern** _remote_   
-<span style="font-weight: 100">Collaborated with and guided by Dr. Yu Zeng, Princeton University    
+**Research Intern** Princeton University   
+<span style="font-weight: 100; color: rgba(51, 51, 51, 0.8)">Collaborated with and guided by Dr. Yu Zeng, Princeton University    
 Focused on accelerating hardware simulation by optimizing RTL synthesis        
 Preparing to publish on ICCAD </span>
 
-**Hardware Engineer** _"One Core for Life" Project_          
-<span style="font-weight: 100">Implemented a RISC-V 64IM CPU Core with 5-stage pipeline, using Chisel and its simulation framework based on Verilator    </span>
+**Hardware Engineer** "One Core for Life" Project     
+<span style="font-weight: 100; color: rgba(51, 51, 51, 0.8)">Implemented a RISC-V 64IM CPU Core with 5-stage pipeline, using Chisel and its simulation framework based on Verilator    </span>
 
 **Teaching Assistant**                
-<span style="font-weight: 100">2022 Fall, [Introductory Programming](https://www.gla.ac.uk/coursecatalogue/course/?code=UESTC1005)   </span>
+<span style="font-weight: 100; color: rgba(51, 51, 51, 0.8)">2022 Fall, [Introductory Programming](https://www.gla.ac.uk/coursecatalogue/course/?code=UESTC1005)   </span>
 
 
 ## Education
-**B.Sc., Electrical and Electronic Engineering (2021-2025)**     
+**B.Sc. Electrical and Electronic Engineering (2021-2025)**     
 [Joint Program](https://www.gla.ac.uk/undergraduate/degrees/electronicselectricaluestc/) from University of Glasgow and UESTC     
 
 
